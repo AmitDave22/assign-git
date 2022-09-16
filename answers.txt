@@ -1,4 +1,4 @@
-﻿Answers:
+Answers:
 Q. What is a gitignore file and what should it include for a Java project?
 Ans. .gitignore file tells git to ignore the files of a certain type 
 in the project’s repository. It is present in the root repo of the project.
